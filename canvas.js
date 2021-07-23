@@ -19,7 +19,7 @@ var BrickTop=30;
 var BrickLeft=20;
 var score = 0;
 var total=0;
-var totalScore=0;
+var totalscore=0;
 
 var bricks = [];
 for(var r=0; r<BrickRow; r++) {
